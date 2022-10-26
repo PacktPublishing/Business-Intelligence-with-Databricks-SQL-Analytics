@@ -61,3 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Vihag Gupta** is a solutions architect with a specialization in cloud data platform architecture and design. He has a background in data engineering and a professional interest in machine learning. He loves getting hands-on and solving real business problems with technology. He graduated with a degree in information technology from PES University, Bengaluru, in 2011 and earned a degree in information systems management from Carnegie Mellon University, Pittsburgh, in 2016. He has worked at companies including Deloitte Consulting, DataSpark, and Qubole. He currently works at Databricks, helping clients bring their lakehouse platforms for analytics to life.
 Originally from Jharkhand, India, Vihag currently lives in Singapore with his wife and dog.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803235332">https://packt.link/free-ebook/9781803235332 </a> </p>
