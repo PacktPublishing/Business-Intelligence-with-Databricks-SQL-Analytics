@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781803235332)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Business Intelligence with Databricks SQL	
 
 <a href="https://www.packtpub.com/product/business-intelligence-with-databricks-sql-analytics/9781803235332"><img src="https://static.packt-cdn.com/products/9781803235332/cover/smaller" alt="Business Intelligence with Databricks SQL" height="256px" align="right"></a>
